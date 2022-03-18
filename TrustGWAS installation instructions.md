@@ -196,6 +196,7 @@ In docker, two sets of data are prepared, test_data1 and test_data2.
 ### * TrustGWAS command parameter
 
 The scripts used in the above tests are all configured in advance. The detailed parameter configuration is as follows
+
 **All mandatory parameters are as follows:**
 
 | --file   | {filepath}  | Specify the path to the ped/map file                         |
